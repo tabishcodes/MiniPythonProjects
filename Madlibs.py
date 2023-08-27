@@ -1,4 +1,4 @@
-adj = input("A light: ")
+adj = input("A superhero: ")
 adj1 = input("A place: ")
 adj2 = input("A food: ")
 adj3 = input("A bird: ")
